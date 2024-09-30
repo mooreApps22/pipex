@@ -6,3 +6,6 @@ Program Usage: ```./pipex <infile> <cmd1> <cmd2> <outfile>```
 
 Used to recreate the bash command: ```< <infile> <cmd1> | <cmd2> > <outfile>```
 
+1. The contents of the infile is input into the cmd1.
+2. The output of cmd1 is input into cmd2.
+3. The output of cmd2 is input to the outfile. 

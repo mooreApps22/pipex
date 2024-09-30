@@ -4,5 +4,5 @@
 
 Program Usage: ```./pipex <infile> <cmd1> <cmd2> <outfile>```
 
-Used to recreate the bash command: ```< <infile> <cmd1> | <cmd2> <outfile>```
+Used to recreate the bash command: ```< <infile> <cmd1> | <cmd2> > <outfile>```
 

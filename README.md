@@ -1,5 +1,5 @@
 # Pipex
-## This is an exercise using system calls to recreate the bash's redirection pipe operator
+## This is an exercise using system calls to recreate bash's redirection pipe operator
 ### This project is about handling pipes
 
 Pipex is a C program that was written on a GNU/Linux OS. Pipex takes four arguments exactly.
